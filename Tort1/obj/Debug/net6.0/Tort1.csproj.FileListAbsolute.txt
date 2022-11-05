@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\bin\Debug\net6.0\Tort1.exe
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\bin\Debug\net6.0\Tort1.deps.json
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\bin\Debug\net6.0\Tort1.runtimeconfig.json
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\bin\Debug\net6.0\Tort1.dll
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\bin\Debug\net6.0\Tort1.pdb
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.dll
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\refint\Tort1.dll
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.pdb
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\Tort1.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\proekt 2\Tort1\Tort1\obj\Debug\net6.0\ref\Tort1.dll
